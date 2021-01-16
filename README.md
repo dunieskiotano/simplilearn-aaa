@@ -25,9 +25,9 @@ Scale down  => Decreasing the capacity/power of the server ( - CPU,  -RAM, Stora
 4.	Pay less as AWS grows => Since 2006, AWS has decreased the prices 75 times<br/>
 
 <h2>Three fundamental drivers of cost with AWS:</h2>
-1.	<span>Compute</span> (charged by hour/second, instance type – t3.micro, x4.large)<br/>
-2.	Storage (typically per GB)<br/>
-3.	Data transfer (Outbound is aggregated and charged, inbound has no charge, charged typically per GB)<br/>
+1.	<span style="color: red;">Compute</span> (charged by hour/second, instance type – t3.micro, x4.large)<br/>
+2.	<span style="color: red;">Storage</span> (typically per GB)<br/>
+3.	<span style="color: red;">Data transfer</span> (Outbound is aggregated and charged, inbound has no charge, charged typically per GB)<br/>
 
 
 <h2>Four types of instances:</h2>
