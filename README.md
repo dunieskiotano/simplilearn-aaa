@@ -45,6 +45,6 @@ Region => Contains at least 1 Availability Zone(AZ) => 50 to 60 miles distance b
 Availability Zone => Contains at least 1 data center (one or more discrete data centers)
 Data Center => Has between 50,000 and 80,000 servers
 
-<h2>AWS Free Tier:</h2>
+<h2>Helpful Links</h2>
 <a href="https://aws.amazon.com/free" target="_blank">Click Here to Know about the AWS Free Tier</a>
 
