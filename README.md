@@ -16,9 +16,9 @@ Scale down  => Decreasing the capacity/power of the server ( - CPU,  -RAM, Stora
 1-yr term, 3-yr term, up to 75 % discounts
 
 <h2>Three choices for RI:</h2>
-AURI -> All Upfront Reserved Instances => biggest discounts
-PURI -> Partial Upfront Reserved Instances => smaller discounts
-NURI -> No Upfront Reserved Instances => much smaller discounts
+<strong>AURI</strong> -> All Upfront Reserved Instances => biggest discounts
+<strong>PURI</strong> -> Partial Upfront Reserved Instances => smaller discounts
+<strong>NURI</strong> -> No Upfront Reserved Instances => much smaller discounts
 
 <h2>AWS Pricing Model:</h2>
 1.	Pay for what you use
