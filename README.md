@@ -22,7 +22,7 @@ Scale down  => Decreasing the capacity/power of the server ( - CPU,  -RAM, Stora
 1.	Pay for what you use<br/>
 2.	Pay less when you reserve<br/>
 3.	Pay less when you use more<br/>
-4.	Pay less as AWS grows => Since 2006, AWS has decreased the prices 75 times<br/>
+4.	Pay less as AWS grows => Since 2006, AWS has decreased the price 75 times<br/>
 
 <h2>Three fundamental drivers of cost with AWS:</h2>
 1.	<span style="color: red;">Compute</span> (charged by hour/second, instance type – t3.micro, x4.large)<br/>
@@ -46,5 +46,7 @@ Availability Zone => Contains at least 1 data center (one or more discrete data 
 Data Center => Has between 50,000 and 80,000 servers
 
 <h2>Helpful Links</h2>
-<a href="https://aws.amazon.com/free" target="_blank">Click Here to Know about the AWS Free Tier</a>
+<ol>
+  <li><a href="https://aws.amazon.com/free" target="_blank">AWS Free Tier</a></li>
+</ol>
 
